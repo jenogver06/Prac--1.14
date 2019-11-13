@@ -1,0 +1,33 @@
+body {
+    background-color: peachpuff;
+}
+
+header {
+    color:saddlebrown;
+    text-align:right;
+    font-weight: bold;
+}
+
+p {
+    color:saddlebrown;
+}
+
+p.a {
+    text-align: left;
+}
+
+p.b {
+    text-align: center;
+}
+
+p.c {
+    text-align: right;
+}
+
+a {
+    color: blue;
+}
+
+address {
+    color:sienna;
+}
