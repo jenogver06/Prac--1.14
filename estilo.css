@@ -11,23 +11,6 @@ header {
 p {
     color:saddlebrown;
 }
-
-p.a {
-    text-align: left;
-}
-
-p.b {
-    text-align: center;
-}
-
-p.c {
-    text-align: right;
-}
-
-a {
-    color: blue;
-}
-
-address {
-    color:sienna;
+p.Titulo {
+    color:rgb(109, 6, 6);
 }
